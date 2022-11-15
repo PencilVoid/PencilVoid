@@ -1,2 +1,2 @@
-Hi, I'm @PencilVoid. I'm currently practising web development and game development as hobbies.
-You can check out my homepage on [Neocities](https://pencilvoid.neocities.org/). There you can find information about me and other places on the web you can see me.
+# 🪴🦔👋
+I am @PencilVoid. I am practicing web development and game development in my spare time. Outside of this, I have been developing my skills in digital art, pixel art in particular, for six years.
